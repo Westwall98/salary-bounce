@@ -1,4 +1,4 @@
 name = "salary-bounce"
-compatibility_date = "2026-08-11"
+compatibility_date = "2026-07-21"
 
 assets = { directory = "./dist", binding = "ASSETS" }
